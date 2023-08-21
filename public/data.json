@@ -1,0 +1,66 @@
+[
+    {
+      "id":1,  
+      "cover": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        
+      "authorName": "Forrest Gump",
+       "author":"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        
+      "spentTime": 142,
+      "description": "How to get your first job as a self-taught programmer",
+      "date":"12 March",
+      "tag":" #beginners #IT engineer",
+      "blogDetail": "hiiiiiiiii"
+    
+    },
+      
+      
+      {
+      "id":2,
+      "cover": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFlcm9zcGFjZSUyMGVuZ2lubmVyaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        
+      "authorName": "Mrx Khan Jhon",
+       "author":"https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        
+      "spentTime": 42,
+      "description": "Making the Complex Simple - Simple Programmer",
+      "date":"13 November",
+      "tag":" #advance #programmer",
+      "blogDetail": "In-Demand!"
+    
+    },
+      
+  {
+      "id":3,
+      "cover": "https://plus.unsplash.com/premium_photo-1661764393655-1dbffee8c0ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        
+      "authorName": "Forrest Gump",
+       "author":"https://images.unsplash.com/photo-1542190891-2093d38760f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        
+      "spentTime": 14,
+      "description": "What are the topics that are taught on this programming blog?",
+      "date":"14 February",
+       "tag":" #beginners #aerospace engineeer",
+       "blogDetail": "Master"
+    
+    },
+  {
+       "id":4,
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=872&q=80",
+        
+      "authorName": "Jhon Doe",
+       "author": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        
+      "spentTime": 4,
+      "description": "What are the features that make this blog unique to learn coding?",
+      "date": "15 August",
+      "tag": "#beginners #tech programmer",
+      "blogDetail": "Power Platform"
+    
+    }
+      
+      
+      ]
+      
+      
+  
