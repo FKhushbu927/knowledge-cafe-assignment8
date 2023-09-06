@@ -1,16 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 
 const SideBar = ({bookMark}) => {
+
    let quantity = 0;
-   let totalSpentTime = 0;
+//    let totalSpentTime = 0;
 
    for(const blog of bookMark){
-            // totalSpentTime = totalSpentTime + (blog.spentTime * blog.quantity); 
-            let readTime =  blog.spentTime;
-
-
-            totalSpentTime = (totalSpentTime + readTime) * blog.quantity; 
-            
+    
             quantity = quantity + blog.quantity;
    }
  
@@ -18,11 +14,12 @@ const SideBar = ({bookMark}) => {
     return (
         <>
               <div className="bg-primary-subtle p-2 my-4 rounded">
-                        <h4>Spent Time on Read: <span style={{ color: "blue" }}>{totalSpentTime} min</span></h4>
+                        {/* <h4>Spent Time on Read: <span style={{ color: "blue" }}> min</span></h4> */}
                     </div>
                     <div className='bg-dark-subtle p-3 my-4 rounded'>
                         
-                           <h4 className='mb-2'>Bookmarked Blogs:{quantity}</h4>
+                           {/* <h4 className='mb-2'>Bookmarked Blogs:{quantity}</h4> */}
+                           <p>BookMarked Blogs: {quantity}</p>
 
                         <div className=''>
                             <p className='bg-white rounded m-2 p-4 m-2'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, hic.</p>  
